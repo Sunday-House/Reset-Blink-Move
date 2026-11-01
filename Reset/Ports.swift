@@ -7,7 +7,7 @@
 //  (Dependency Inversion). Concrete adapters live in their own files and are
 //  wired together by AppDelegate (the composition root). Each protocol is small
 //  and single-purpose (Interface Segregation).
-//
+// test github and jira integration
 
 import Foundation
 
