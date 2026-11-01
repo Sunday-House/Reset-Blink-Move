@@ -6,7 +6,7 @@
 //  only on abstractions (SettingsProviding + the ports + a `[Reminder]` + an
 //  injectable clock), so the entire policy is unit-testable with fakes — no
 //  AppKit, no real timers, no notifications.
-//
+// test github and jira integration
 
 import Foundation
 
